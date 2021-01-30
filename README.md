@@ -63,4 +63,4 @@
 
 ## What doesn't work
 - Bluetooth on DW1820A not detected even with acidanthera's [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
-- Battery percentage is broken
+- ~~Battery percentage is broken~~ Fixed by injecting dumped DSDT
